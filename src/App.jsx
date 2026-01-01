@@ -32,7 +32,7 @@ function App() {
     <>
       <Navbar />
       <div className="body flex justify-center">
-        <div className="container flex justify-center items-center border-2 flex-col">
+        <div className="container flex justify-center items-center  flex-col">
           <h1 className='font-mono text-4xl'>Your Tasks</h1>
           <div className="inp border rounded-2xl h-9 w-1/2 relative flex items-center justify-between border-none bg-[#eeeff2]
           ">
